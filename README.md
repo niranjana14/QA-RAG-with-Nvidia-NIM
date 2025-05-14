@@ -24,9 +24,10 @@ This is a simple Streamlit app that allows users to upload PDF documents, genera
 - [PyMuPDF / PyPDFLoader](https://pymupdf.readthedocs.io/)
 
 ---
+
 ## Screenshots
+
 ![image](https://github.com/user-attachments/assets/040eddc2-d4da-4092-a597-a436a600dad9)
+
 ![image](https://github.com/user-attachments/assets/b41ae2e8-6d99-4fe0-b614-d5aede2c0721)
-
-
 
